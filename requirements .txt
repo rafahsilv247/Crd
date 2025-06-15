@@ -1,0 +1,11 @@
+requests
+pycryptodome
+pycountry
+m3u8
+colorama
+tqdm
+iso-639
+appdirs
+pycaption
+lxml
+unidecode
